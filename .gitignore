@@ -1,0 +1,6 @@
+
+# Airflow local artifacts (do not commit)
+tml-airflow/airflow.db
+tml-airflow/logs/
+*.tar.gz
+*.tar.gzaa
