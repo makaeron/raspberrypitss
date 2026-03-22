@@ -1,0 +1,4 @@
+tml-airflow/logs/
+tml-airflow/airflow.db
+*.tar.gz
+*.tar.gzaa
